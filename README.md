@@ -12,13 +12,13 @@ This project focuses on analyzing customer behavior in the automotive industry b
 - **Jupyter Notebook**
 
 ### 📂 Files Included:
-- `car_data.csv`: The dataset used for analysis.
-- `Car_Purchase_Analysis.ipynb`: The Jupyter Notebook containing all the analysis, visualizations, and model building.
-- `README.md`: Project documentation.
+- **car_data.csv**: The dataset used for analysis.
+- **Car_Purchase_Analysis.ipynb**: The Jupyter Notebook containing all the analysis, visualizations, and model building.
+- **README.md**: Project documentation.
 
 ### 🔑 Key Findings:
-1. **Safety is the most important feature**: Safety has the highest impact on car acceptability, followed by price.
-2. **Price Sensitivity**: Lower buying and maintenance costs significantly increase the likelihood of a car being accepted by consumers.
-3. **Practical Features Matter**: Person capacity and luggage size also play a crucial role in customer decisions, especially for larger families.
-4. **Horsepower is less significant**: Customers prioritize safety and affordability over performance in their purchasing decisions.
-
+1. **Horse Power is the most important feature**: Horse_power has the highest impact on car acceptability based on the latest model.
+2. **Person Capacity is also highly important**: The ability of a car to accommodate more passengers is a critical factor in determining acceptability.
+3. **Safety Ratings are significant**: Cars with low safety ratings are less likely to be accepted by consumers.
+4. **Number of Doors plays a moderate role**: While not as important as other features, the number of doors has some impact on car acceptability.
+5. **Luggage Size and Safety_med are less significant**: These features play a smaller role in influencing customer decisions.
